@@ -2,7 +2,7 @@
 
 
 
-### **🌟 DocConnect: Your Gateway to Seamless Healthcare Management! 🌟**
+### **🌟 DocConnect🩺: Your Gateway to Seamless Healthcare Management! 🌟**
 
 ![Doctor's Office Animation](https://cdn.dribbble.com/users/2008861/screenshots/5969275/media/cf16d40d408610b0f2a888fd0ccfbc89.gif)  
 *Visualizing a streamlined doctor-patient interaction with DocConnect!*

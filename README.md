@@ -1,6 +1,6 @@
-Here's your updated documentation with the animation added before the **Project Overview**:
 
----
+
+
 
 ### **🌟 DocConnect: Your Gateway to Seamless Healthcare Management! 🌟**
 
@@ -125,4 +125,4 @@ DocConnect/
 
 ---  
 
-Let me know if you need any further changes or additions! 😊
+

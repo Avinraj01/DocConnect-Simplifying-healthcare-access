@@ -1,4 +1,4 @@
-(file:///D:/Doctor's%20office.gif)
+
 
 
 

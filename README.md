@@ -1,4 +1,4 @@
-[![MasterHead](file:///D:/Doctor's%20office.gif)
+(file:///D:/Doctor's%20office.gif)
 
 
 

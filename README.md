@@ -1,7 +1,16 @@
-### **🌟 DocConnect: Your Gateway to Seamless Healthcare Management! 🌟**  
+Here's your updated documentation with the animation added before the **Project Overview**:
+
+---
+
+### **🌟 DocConnect: Your Gateway to Seamless Healthcare Management! 🌟**
+
+![Doctor's Office Animation](https://cdn.dribbble.com/users/2008861/screenshots/5969275/media/cf16d40d408610b0f2a888fd0ccfbc89.gif)  
+*Visualizing a streamlined doctor-patient interaction with DocConnect!*
+
+---
 
 #### **📜 Project Overview**  
-Welcome to **DocConnect**, your one-stop solution for managing doctor-patient interactions! 🩺✨ Simplify scheduling, bookings, and records management with our powerful **C++** application. This system is designed with cutting-edge **Object-Oriented Programming (OOP)** principles and robust file handling techniques to ensure smooth and reliable operation.  
+Welcome to **DocConnect**, your one-stop solution for managing doctor-patient interactions! 🩺✨ Simplify scheduling, bookings, and records management with our powerful **C++** application. This system is designed with cutting-edge **Object-Oriented Programming (OOP)** principles and robust file handling techniques to ensure smooth and reliable operation.
 
 ---
 
@@ -113,3 +122,7 @@ DocConnect/
 **DocConnect** isn’t just a system; it’s a **healthcare revolution**! 🌐💊 Designed to simplify lives, improve healthcare management, and adapt to future needs, **DocConnect** is the ultimate solution for smarter, more accessible medical interactions.  
 
 🚀 **Transform the way you manage healthcare with DocConnect today!** 🌟
+
+---  
+
+Let me know if you need any further changes or additions! 😊

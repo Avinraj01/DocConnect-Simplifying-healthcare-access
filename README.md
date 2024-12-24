@@ -33,7 +33,7 @@ DocConnect/
 │   ├── Doctor.h          # 🩺 Doctor class header
 │   ├── Patient.h         # 🩹 Patient class header
 │   └── Schedule.h        # 🕒 Schedule class header
-├── src/
+├── source code/
 │   ├── Booking.cpp       # 📚 Booking class implementation
 │   ├── Doctor.cpp        # 📖 Doctor class implementation
 │   ├── Patient.cpp       # ✍️ Patient class implementation
